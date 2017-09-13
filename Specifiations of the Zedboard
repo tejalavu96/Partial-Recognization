@@ -110,3 +110,25 @@ o
 License voucher for ChipScope™
  Pro
  locked to XC7Z020
+
+
+Key Features & Benefits
+
+    10/100/1000 Ethernet
+    256 MB Quad-SPI Flash
+    4 GB SD card
+    512 MB DDR3
+    Analog Devices ADAU1761 SigmaDSP® Stereo, Low Power, 96 kHz, 24-Bit Audio Codec
+    Analog Devices ADV7511 High Performance 225 MHz HDMI Transmitter (1080p HDMI, 8-bit VGA, 128x32 OLED)
+    Dual-core ARM Cortex™-A9
+    Embedded ARM processing
+    General Zynq-7000 AP SoC prototyping
+    Linux/Android/RTOS development
+    Motor control
+    Onboard USB-JTAG Programming
+    PS & PL I/O expansion (FMC, Pmod, XADC)
+    Software acceleration
+    USB OTG 2.0 and USB-UART
+    Video processing
+    Xilinx Zynq-7000 AP SoC XC7Z020-CLG484
+
