@@ -1,0 +1,112 @@
+Xilinx
+® XC7Z020-
+1CL
+G484C
+ Zynq
+-7000 AP SoC
+o
+Primary configuration = Q
+SPI Flash
+o
+Auxiliary configuration 
+options
+
+Cascaded JTAG
+
+SD Card
+•
+Memory
+o
+512 MB DDR3 
+(128M 
+x 32)
+o
+256 
+Mb 
+QSPI Flash
+•
+Interfaces
+o
+USB-
+JTAG Programming using Digilent
+ SMT1
+-equivalent
+ circuit
+
+Accesses PL JTAG
+
+PS JTAG pins connected through PS Pmod 
+o
+10/100/1G Ethernet
+o
+USB OTG 2.0
+o
+SD Card
+o
+USB 2.0 FS 
+USB
+-UART bridge
+o
+Five
+ Digilent Pmod™ compatible headers (2x6) (1 PS, 4 PL)
+o
+One LPC FMC
+o
+One AMS Header
+o
+Two 
+Reset Buttons
+ (1 PS, 1 PL)
+o
+Seven Push
+ Buttons (2 PS, 5 PL)
+o
+Eight 
+dip/slide
+ switch
+es (PL)
+o
+Nine User LEDs (1 PS, 8 PL)
+o
+DONE LED
+ (PL)
+•
+On
+-board Oscillator
+s 
+o
+33.333 MHz (PS)
+o
+100 
+MHz 
+(PL) 
+•
+Display
+/Audio
+o
+HDMI Output
+o
+VGA (12
+-bit Color)
+o
+128x32 OLED Display
+o
+Audio 
+Line-
+in, Line
+-out, headphone, microphone
+•
+Power
+o
+On/Off Switch
+o
+12V @ 5A AC/DC regulator
+•
+Software
+o
+ISE
+® WebPACK Design Software
+o
+License voucher for ChipScope™
+ Pro
+ locked to XC7Z020
